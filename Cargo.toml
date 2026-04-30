@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "wave"
+]
+
+resolver = "3"
